@@ -47,6 +47,11 @@ const Navbar = () => {
                 CONNECT
               </Button>
             </div>
+            <div className='ml-0 md:ml-8 max-md:absolute -bottom-6 left-0 right-0 mx-auto font-bold text-4xl md:text-base'>
+              <Button >
+                CONNECT
+              </Button>
+            </div>
           </ul>
 
         </div>
